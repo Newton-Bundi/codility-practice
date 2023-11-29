@@ -8,7 +8,6 @@ def Fnct(string):
 
         z = x + y
 
-    
         if z > 9:
             a += 1
             b += 1
